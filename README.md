@@ -1,2 +1,2 @@
-# My-game-2
-Click and drag the mouse to shoot. Not ready yet but stops at circle.
+# p5.play-boilerplate
+Boiler plate for p5.play
